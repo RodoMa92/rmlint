@@ -19,6 +19,7 @@ BuildRequires:  scons
 BuildRequires:  gcc
 BuildRequires:  python3-sphinx
 BuildRequires:  python3-devel
+BuildRequires:  python3-distutils-extra
 BuildRequires:  gettext
 BuildRequires:  libblkid-devel
 BuildRequires:  elfutils-libelf-devel
